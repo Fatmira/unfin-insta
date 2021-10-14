@@ -1,12 +1,11 @@
 import requests
+import pdb
 from selenium import webdriver
 from time import sleep
 from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
 
 #unfinished
-
-
 
 print("")
 print("Instagram")
